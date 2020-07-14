@@ -8,5 +8,7 @@ public class practice1 {
 
         System.out.println("I'm practicing a git here");
 
+        System.out.println("some more line of code here");
+
     }
 }
