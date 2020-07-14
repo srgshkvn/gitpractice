@@ -10,5 +10,9 @@ public class newclass {
 
 
         System.out.println("Created a new class");
+
+        System.out.println("hello");
+
+        System.out.println("hello world");
     }
 }
